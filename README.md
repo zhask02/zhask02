@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zhask02
+- 👋 Hi, I’m @Vedant Ghankhede
 - 👀 I’m interested in computer programming
 - 🌱 I’m currently learning C++
 - 💞️ I’m looking to collaborate on software projects, projects that'll help me learn and understand programming even more
